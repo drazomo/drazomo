@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
-- 🔭 I’m currently working on [nextflix](https://github.com/MrkRsv/nextflix)
+- 🔭 I’m currently working on [ringoBarVLC](https://github.com/MarkRasavong/ringoBarVLC)
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
