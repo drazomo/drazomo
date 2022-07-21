@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Rasavong</h1>
-<h3 align="center">A passionate front end developer from based in Spain</h3>
+<h3 align="center">A passionate front end developer based in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
