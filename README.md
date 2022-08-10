@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
-- 🔭 I’m currently working on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
+- 🔭 I’m currently working on [Chingu Voyage v40](https://github.com/chingu-voyages/v40-bears-team-25)
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👯 I’m looking to collaborate on [any of your projects.](rasavong.mark@gmail.com)
+- 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
 
 - 🤝 I’m looking for help with [employment.](rasavong.mark@gmail.com)
 
