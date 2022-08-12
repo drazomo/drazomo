@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chingu Voyage v40](https://github.com/chingu-voyages/v40-bears-team-25)
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
 
