@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
-- 🔭 I’m currently working on [Chingu Voyage v40](https://github.com/chingu-voyages/v40-bears-team-25)
+- 🔭 I’m currently working on [Galería App](https://github.com/MarkRasavong/galeriaApp)
 
 - 🌱 I’m currently learning **Next.js**
 
