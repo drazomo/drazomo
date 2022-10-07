@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarkRasavong?tab=repositories](https://github.com/MarkRasavong?tab=repositories)
 
-- 💬 Ask me about **react, blockchain (general), self-help**
+- 💬 Ask me about **react, blockchain (general), self-improvement**
 
 - 📫 How to reach me **rasavong.mark@gmail.com**
 
