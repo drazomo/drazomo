@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Syncfusion dashboard web app](https://github.com/MarkRasavong/syncfusionDash)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular 15**
 
 - 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
 
