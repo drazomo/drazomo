@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
-- 🔭 I’m currently working on [Syncfusion dashboard web app](https://github.com/MarkRasavong/syncfusionDash)
+- 🔭 I’m currently working on [Learning Angular building a Hotel Invetory App: Notes taken @ README.md](https://github.com/MarkRasavong/angular-hotel-inv)
 
 - 🌱 I’m currently learning **Angular 15**
 
