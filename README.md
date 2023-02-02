@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [learning Angular building a Hotel Invetory App: Notes taken @ README.md](https://github.com/MarkRasavong/angular-hotel-inv)
 
-- 🌱 I’m currently learning **Angular 15**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
 
