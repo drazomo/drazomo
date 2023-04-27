@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markrasavong&label=Profile%20views&color=0e75b6&style=flat" alt="markrasavong" /> </p>
 
-- 🔭 I’m currently working on [learning Angular building a Hotel Invetory App: Notes taken @ README.md](https://github.com/MarkRasavong/angular-hotel-inv)
+- 🔭 I’m currently working on [learning Angular building a Hotel Invetory App: Notes taken @ README.md](https://github.com/drazomo/angular-hotel-inv)
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/MarkRasavong/nanoMovil2.0)
+- 👯 I’m looking to collaborate on [nanoMóvil2.0](https://github.com/drazomo/nanoMovil2.0)
 
 - 🤝 I’m looking for help with [employment.](rasavong.mark@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarkRasavong?tab=repositories](https://github.com/MarkRasavong?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/drazomo?tab=repositories](https://github.com/drazomo?tab=repositories)
 
 - 💬 Ask me about **react, blockchain (general), self-improvement**
 
@@ -28,7 +28,10 @@
 <a href="https://linkedin.com/in/markrasavong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markrasavong" height="30" width="40" /></a>
 <a href="https://codesandbox.com/markrasavong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="marquinho93" height="30" width="40" /></a>
 <a href="https://medium.com/@markrasavong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@markrasavong" height="30" width="40" /></a>
-<a href="https://discord.gg/MarkRasavong#2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MarkRasavong#2002" height="30" width="40" /></a>
+<a href="https://discord.gg/
+
+
+#2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MarkRasavong#2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
